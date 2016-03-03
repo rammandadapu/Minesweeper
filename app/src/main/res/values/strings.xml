@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="timer">000</string>
+    <string name="reset">reset</string>
+    <string name="smiley">Face</string>
+</resources>
