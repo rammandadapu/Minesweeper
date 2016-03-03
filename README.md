@@ -1,4 +1,4 @@
 # Minesweeper Game
 ============
-Android App
+Android App<br/>
 This a part-time hobby app to learn the android concepts. 
